@@ -1,0 +1,355 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A relation of a dispute of baptisme of infants of Christians at Holgate in the county of Salop, Maii. 30. 1650. betwixt P. Panter, Dr. in Divinitie, rector of the place, and Mr. Brown, preacher to the Anabaptists in that circuit.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1650</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 36 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A90803</idno>
+            <idno type="STC">Wing P274A</idno>
+            <idno type="STC">ESTC R43711</idno>
+            <idno type="EEBO-CITATION">42475123</idno>
+            <idno type="OCLC">ocm 42475123</idno>
+            <idno type="VID">151256</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A90803)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 151256)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2252:9)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A relation of a dispute of baptisme of infants of Christians at Holgate in the county of Salop, Maii. 30. 1650. betwixt P. Panter, Dr. in Divinitie, rector of the place, and Mr. Brown, preacher to the Anabaptists in that circuit.</title>
+                  <author>Panter, P.</author>
+                  <author>Brown, Mr.</author>
+               </titleStmt>
+               <extent>[2], 14 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Thomas Vere ...,</publisher>
+                  <pubPlace>London,</pubPlace>
+                  <date>1650.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imperfect: stained and cropped, with loss of text.</note>
+                  <note>Reproduction of original in: William Andrews Clark Memorial Library, University of California, Los Angeles.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Infant baptism --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-05</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-08</date>
+            <label>Susie Lorand</label>Sampled and proofread</change>
+         <change>
+            <date>2010-08</date>
+            <label>Susie Lorand</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:151256:1"/>
+            <p>A RELATION OF A DISPV<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap> OF BAPTISME of INFANTS of CHRISTIANS.</p>
+            <p>At Holgate in the County of Salop, Maii. 30. 1650.</p>
+            <p>Betwixt P. PANTER, D. in Divinitie, Rector of the Place, And M<hi rend="sup">r</hi>. BROWN, Preacher to the Ana<g ref="char:EOLhyphen"/>baptiſts in that Circuit.</p>
+            <p>LONDON: Printed for Thomas Vere, dwelling at the upper end of the Old-Bayly. 1650.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:151256:2"/>
+            <pb n="1" facs="tcp:151256:2"/>
+            <head>A Relation of a Diſpute of Baptiſme of Infants of Chriſtians.</head>
+            <p>
+               <seg rend="decorInit">B</seg>Eing come into the Hall of <hi>Holgate,</hi> and the Queſtion put to Mr. <hi>Browne,</hi> of the cauſe of his ſeceſſion and ſepa<g ref="char:EOLhyphen"/>ration from the Church of <hi>England,</hi> in which he was brought up, and had for certain years been an inſtructer of others. He anſwering with a diſtin<g ref="char:EOLhyphen"/>ction (as he termed it) of the name of the Church (from the true Profeſſors whereof he ſaid, that he had not receded.) It was askt, whether he did hold with the people of <hi>England,</hi> profeſſing as they did, accord<g ref="char:EOLhyphen"/>ing to the Articles of Doctrine and Faith authorized in the ſame; whereabout, after ſome tergiverſation, he called for the Book of Articles, and after ſome turning over it, pitched upon the Baptiſme of Infants; which (and no other at that time) he ſeemed to give, for the cauſe of his ſeparation: he ſpoke ſomewhat of originall ſinne; but that Queſtion being woven and wrapped in the other, it was thought ſufficient to ſpeake of either for both: and indeed, the Baptiſme of Infants was that which over-night he had deſired to be handled, and wherein he could not but come prepared with all the anſwers and ſhifts which could be deviſed; eſpecially he knowing what arguments the Doctor would chiefly urge, by a diſciple of his there preſent by him, who
+<pb n="2" facs="tcp:151256:3"/>
+had beene brought to the Doctor not long before for ſatisfaction.</p>
+            <p>The Doctor albeit not liking of ſuch Meetings, (knowing how often ſuch Conferences doe end in Wrangling) yet that they ſhould not have occaſion to brag of refuſing the Challenge, did not decline the Diſ<g ref="char:EOLhyphen"/>pute; and albeit the other ſhunned to be the actor, and by arguments to prove his reaſon, or diſprove the bap<g ref="char:EOLhyphen"/>tiſme of Infants (ſtill taking himſelfe to the defenders part by negatives, which are eaſier then proofes) albeit the Church of <hi>England</hi> was in poſſeſſion of that cu<g ref="char:EOLhyphen"/>ſtome without preſcription, and therefore ſhould have been ejected of her cuſtome by reaſon and Divine Law, it not onely being the cuſtome of the Church of Eng<g ref="char:EOLhyphen"/>land, but alſo of whole Chriſtendome from all time out of mind or record, the beginning of which cuſtom the Separatiſt could not ſhow (for albeit once he ſaid, that it begun 200. years after Chriſts birth, in the dayes of <hi>Innocentius</hi> Pope, yet being deſired to ſhow that by evidence, he paſſed from it) which is the mark and rule propoſed by the Ancients for knowing Divine &amp; Apo<g ref="char:EOLhyphen"/>ſtolick Ordinances &amp; Cuſtomes, whatſoever hath been univerſally kept in the Church, the beginning of which cannot be found out, that is preſumed alway to have proceeded either from our Saviour, or his Apoſtles.</p>
+            <p>He ſtanding at this, and holding cloſe to the Nega<g ref="char:EOLhyphen"/>tive, the Dr. askt him, what proofes, and from whence ſhould they be ſought? Hee anſwering, out of Scrip<g ref="char:EOLhyphen"/>tures, the Scriptures of truth, (as he often mentioned &amp; ſeemed to brag of them) it was replyed, that the Que<g ref="char:EOLhyphen"/>ſtion would be about the meaning of Scripture: who therefore ſhould be the interpreter and pointer out of the mind of God in them? Should it not be the Uni<g ref="char:EOLhyphen"/>verſall Church of Chriſt, the pillar and ground of<note place="margin">1 Tim. 3. 15.</note> Truth? by whoſe conſent Hereſies and Errours in all Ages had been judged, as the ſtile of the Canons and Concluſions of Councels doe ſhow, <hi>Ita credidit, tenuit docuit ſemper Catholica Eccleſia,</hi> and would he not fol<g ref="char:EOLhyphen"/>low
+<pb n="3" facs="tcp:151256:3"/>
+the wholſome direction of <hi>Vincentius Lirinenſis ad<g ref="char:EOLhyphen"/>verſus haereſes,</hi> taking the Scripture alway, <hi>Cum catho<g ref="char:EOLhyphen"/>lica interpretatione,</hi> which is not adding to the Scrip<g ref="char:EOLhyphen"/>tures, but declaring the ſenſe and meaning of them; which (as the Eunuch humbly acknowledged to <hi>Phi<g ref="char:EOLhyphen"/>lip,</hi> ſaying, <hi>How ſhould he underſtand without a guide?</hi>)<note place="margin">Acts 8. 31.</note> are not onely in allegoricall Prophecies, (as Mr. <hi>Browne</hi> pleaded) but alſo in Commands and Ordinan<g ref="char:EOLhyphen"/>ces about the Sacraments, not ſo obvious and open to every one; wherein, if the expreſſe Letter be holden to (as he ſtill craved and urged for Infant Baptiſme) then what ſhall be ſaid of the other Sacrament in the words, <hi>Hoc eſt corpus meu<g ref="char:cmbAbbrStroke">̄</g>, hic eſt ſanguis novi Teſtamenti?</hi> which words the Anabaptiſts doe leave out in their ad<g ref="char:EOLhyphen"/>miniſtration. And indeed, if this way be followed (as ſome of his Diſciples there preſent declared, except they ſaw and read the name of Infants expreſſed in the Text, they would not receive it, <hi>Thomas</hi>-like, as by ſome preſent was returned to them) not onely Infant bap<g ref="char:EOLhyphen"/>tiſme, but all the Articles of the Creed ſhall be called in queſtion, as appeared by Mr. <hi>Brownes</hi> Queſtions con<g ref="char:EOLhyphen"/>cerning <hi>Arrius, Macedonius</hi> and <hi>Pelagius</hi> (when the Dr. named them as condemned by the Doctrine of the Church,) what they did hold, and for what they were condemned? Which M. <hi>Brown</hi> ſaid he knew not, for their books were not extant, not onely doubting of the juſtice of the proceedings againſt them (as appeares) and giving great ſuſpition of a favourable conſtructi<g ref="char:EOLhyphen"/>on of them, as with <hi>Pelagius</hi> they hold, and more.</p>
+            <p>Alwayes he ſtill provoking to the Scriptures, held up the ſame to the people (although it was but a Tran<g ref="char:EOLhyphen"/>ſlation of the Bible, and done by theſe men, and that Church which they account Antichriſtian, and no Church, I mean by the Church of <hi>England</hi>) the Doctor ſeeing his reſolution, leſt the meeting ſhould have been broken up without doing any thing, as was expected, reſolved to take the part of the Actor, and by their owne weapons (as they boaſt) take them which way they would, to deal with them.</p>
+            <div n="1" type="proof">
+               <head>Firſt proofe.</head>
+               <p>
+                  <pb n="4" facs="tcp:151256:4"/>
+                  <note place="margin">Matth. 28. 19.</note> And firſt argued from the Ordinance of Baptiſme, which being univerſall, To baptize all Nations with<g ref="char:EOLhyphen"/>out exception (expreſſed in the words as they requi<g ref="char:EOLhyphen"/>red) why ſhould not Infants be underſtood to be in<g ref="char:EOLhyphen"/>cluded,<note place="margin">And when one Nation was entred in Co<g ref="char:EOLhyphen"/>venant by Circumciſion, Infants were circumciſed; why not then, when all Na<g ref="char:EOLhyphen"/>tions are to be entred in Covenant with God, In<g ref="char:EOLhyphen"/>fants bapti<g ref="char:EOLhyphen"/>zed?</note> they being a part of Nations, as Mr. <hi>Logane</hi> ar<g ref="char:EOLhyphen"/>gued afterward from the etymon of the word Nation, being from <hi>Nati,</hi> born, ſo that all that are born ought to be included they being able to ſatisfie Chriſts com<g ref="char:EOLhyphen"/>mand of comming to him, which by our Saviours own declaration &amp; acceptation of thoſe who were brought to him (albeit <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, and Sucklings, not able to walk on their own feet) was proved; <hi>Suffer</hi> (ſaith he) <hi>little children to come to me, and forbid them not, for of ſuch belong the Kingdome of heaven.</hi>
+               </p>
+               <p>But Mr. <hi>Browne</hi> anſwered to the Doctor, That it did not follow, that Infants were included in the Com<g ref="char:EOLhyphen"/>mand becauſe they were not excluded, or excepted; for then (ſaith he) the baptiſme of Bells, and Horſes, and of his Hat, were included, becauſe they are not mentioned to be excluded: And (as having a great advantage) did call the people to heare the abſurditie of the proofe brought; wherein as he was very impertinent and ri<g ref="char:EOLhyphen"/>diculous, in bringing an inſtance altogether, <hi>extra ſub<g ref="char:EOLhyphen"/>jectum quaeſiti,</hi> without the bounds of the Queſtion, and the ſubject thereof, which are <hi>all Nations,</hi> (neither Bells nor Horſes being of the Nations) ſo that there needed no exception of them, the very name of [<hi>Nati<g ref="char:EOLhyphen"/>ons</hi>]<note place="margin">Here M. <hi>Brown</hi> did cavill at the word <hi>Sa<g ref="char:EOLhyphen"/>crament,</hi> and <hi>Initiation,</hi> be<g ref="char:EOLhyphen"/>cauſe not Scripture words: as if expoſitions of Scripture ſhould be al<g ref="char:EOLhyphen"/>way in its own tearms, which would make <hi>progreſſum in infinitum.</hi>
+                  </note> excluding them: but of Infants (if they had been intended to be excepted) there was great need of ex<g ref="char:EOLhyphen"/>preſſing the ſame, they not onely being a part of the Nations, but alſo in uſe and cuſtome from the dayes of <hi>Abraham,</hi> to be entred in Covenant with God, by a Sacrament of initiation: Which uſe and cuſtome, if our Saviour had intended to have broke off, or altered, he would (no doubt) have done it by a <hi>dictum eſt antiquis &amp;c. ſed ego dico vobis,</hi> as he did in altering the Law of Divorcement, and other Precepts, which paſt currant among their anceſtors, <hi>Matth.</hi> 5. 22, 27, 31, 33, &amp; 34.
+<pb n="5" facs="tcp:151256:4"/>
+ſo he would have ſaid here, in the appointing of the new Sacrament, <hi>Baptiſme,</hi> (tearmed the <hi>Circumciſion of Chriſt,</hi> Col. 2. 11.) It was commanded to the ancients, that they ſhould circumciſe every male of eight dayes old; but I ſay to you, you ſhall not baptize, before they can give a Confeſſion of their Faith.</p>
+               <p>Here Mr. <hi>Browne</hi> (although by the Lawes of Diſpute bound to the active part, and to be the prover of his exception of Infants, as being an Affirmative avouched by him, for <hi>affirmanti incumbit probare</hi>) yet did nothing that way, but ſought to wrangle upon the words, and that by ſo darke Inferences, and Conſequences, as were no wayes agreeable to what he required of us, as cleare and expreſſe proofes in particular of our Poſition.</p>
+               <p>Firſt, he alledged, That they ſhould be made Diſci<g ref="char:EOLhyphen"/>ples<note place="margin">The Adverſa<g ref="char:EOLhyphen"/>ries excepti<g ref="char:EOLhyphen"/>ons againſt the Proofes.</note> [in the word <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>] before they be baptized, becauſe the Pronoune [<gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> 
+                  <hi>them</hi>] in the Command [<hi>Baptizing them</hi>] is of the Maſculine Gender; which (ſaid he) cannot agree with [<gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>] which is Neuter. But for anſwer: As the name <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> is not in the Text, albeit the Verbe <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> be; ſo the Pronoune <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> repeats not the Verbe (it is not the uſe of Gram<g ref="char:EOLhyphen"/>mar) but the Noune going before, which is <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> al<g ref="char:EOLhyphen"/>beit <hi>diverſi generis,</hi> and that by the Figure <hi>Syntheſis,</hi> which reſpecteth more the thing then the name, as Grammarians know.</p>
+               <p>Next he objected, That the firſt Diſciples were taught before baptized; which albeit granted, yet doth not follow that alwayes it was to be ſo, and that their Children might not be baptized after them, before they were taught: For Chriſts Commandement was not onely for that time, but to dure for ever; and not only to remaine <hi>in conſtituenda Eccleſia</hi> (in the Church, when it was firſt a gathering) but alſo <hi>in conſtituta,</hi> when it is gathered. Neither the order of the Precept maketh againſt this order of baptizing firſt, and then teaching; ſeeing (as S. <hi>Matthew</hi> hath the words) it is
+<pb n="6" facs="tcp:151256:5"/>
+ſo, <hi>baptizing and teaching them;</hi> albeit the Engliſh Tran<g ref="char:EOLhyphen"/>ſlation<note place="margin">Matth. 28. 19.</note> (rendring the word <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, <hi>Teach</hi>) doth ex<g ref="char:EOLhyphen"/>preſſe teaching firſt. But indeed, the word ſignifieth not onely to teach, but in generall to Diſciple, or make Diſciples, that is, Chriſtians, (for theſe two words were<note place="margin">Acts 6. 1. Acts 9. 10, 36. Acts 11. 26.</note> in the beginning reciprocall) which not onely by teaching, but alſo baptizing, may be done: as not onely our Saviours owne words (expounding the Verbe <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> by two Participles, <hi>baptizing them,</hi> and <hi>teach<g ref="char:EOLhyphen"/>ing them</hi>) doe declare; but alſo the words of S. <hi>John</hi> the Evangeliſt: where croſſing the rumour made to the<note place="margin">Joh. 4. 1, 2.</note> Phariſes of our Saviour, as making moe Diſciples then <hi>John,</hi> he ſubjoyneth, albeit Jeſus himſelf baptized not, but his Diſciples, inſinuating Baptiſme to be a way of Diſcipling. And the common uſe of ſpeech, is to call one a Diſciple as ſoone as he is put to Schoole, and Earneſt given, although for a long time the Child learn little or none; and a Souldier when he taketh <hi>Sacra<g ref="char:EOLhyphen"/>mentum,</hi> though he yet cannot handle his Armes.</p>
+               <p>Neither the joyning of the two parts of the Com<g ref="char:EOLhyphen"/>mandement together, <hi>Baptizing</hi> and <hi>Teaching,</hi> proveth the exerciſe there of joyntly, more then our Saviours Command, at the firſt ſending out of his Diſciples; <hi>Goe preach the Kingdome of Heaven, heale the Sick,</hi>
+                  <note place="margin">Matth. 10. 7, 8.</note> 
+                  <hi>cleanſe the Leaper, rayſe the Dead, caſt out Devils</hi> did bind them to teach, before they cured or rayſed from the dead.</p>
+            </div>
+            <div n="2" type="proof">
+               <head>Second proofe</head>
+               <p>
+                  <note place="margin"> From Acts 2. 38, 39.</note> From anſwering the Adverſaries Exceptions, and vindicating the Proofe, the Diſputer did proceed to prove poſitively, that Children were included in the Command of Baptiſme, as it is cleared by the words of <hi>Peter,</hi> in the firſt deſcending of the Holy-Ghoſt, who was to bring all our Saviours words into their mind, and direct them in all truth. <hi>Repent ye therefore, and be baptized every one of you in the Name of Jeſus, and ye ſhall receive remiſſion of ſinnes and the gift of the Holy-Ghoſt; for the promiſe is made to you and to your Children, and to thoſe that are afarre off, even as many
+<pb n="7" facs="tcp:151256:5"/>
+as God ſhall call.</hi> Where, in the reaſon or incouragement to take Baptiſme, the Children are comprehended and invited, as appeareth; for wherefore ſhould their right to the Promiſe be mentioned. Mr. <hi>Browne</hi> anſwered firſt, that it was ſpoken to the Jewes (meaning, as I apprehend, that they had an here<g ref="char:EOLhyphen"/>ditarie Covenant and Sacrament;) but if it was ſo, then it would follow at leaſt, that the Children of the Jewes were to be baptized. But the Dr. urged, That the Promiſe is ſaid to belong to them that were <hi>afarre off, even as many as God ſhould call;</hi> which were not the Jewes, as Mr. <hi>Browne</hi> aſſirmed: for<note place="margin">see Verſ. 5. 10,</note> they that were even fartheſt diſperſed from Judaea, were pre<g ref="char:EOLhyphen"/>ſent at the Feaſt, and were aſtoniſhed at the marvelous gift of the Holy-Ghoſt, and heard <hi>Peters</hi> words, and therefore had part in the anſwer with the preſent, in the ſecond Perſon, <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, <hi>to you:</hi> but <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, all <hi>that are afarre off,</hi> are the Gentiles, as the phraſe of ſpeech is uſed, <hi>Eph. 2. 13. But you who were afarre off, are made nigh:</hi> before, they were aliens from the Common-wealth of Iſrael, and ſtrangers, &amp;c. So that not onely the Jewes and their Children, but alſo the Gentiles (being once called) and their Children have Title unto the Promiſes, or the Promiſes are made to them. Here he did cavill, that they behooved firſt to be called, before they obtained the Promiſe; becauſe it is ſaid, <hi>even as many as God ſhall call:</hi> but who doubteth of that (ſaid the Doctor?) Never<g ref="char:EOLhyphen"/>theleſſe it will follow, that as to the Jewes (albeit as yet the Parents were onely called) the Promiſes were made both to them and to their Children; ſo to the Gentiles (of whom we are) albeit the Parents be firſt called, yet the Promiſe is made to their Children alſo, if they be baptized; for onely upon the receiving of Baptiſme, the Promiſe was to be ef<g ref="char:EOLhyphen"/>fectuall.</p>
+               <p>Hence he fell a queſtioning, Whether Children were capable of remiſſion of ſinnes, and of the gift of the Holy-Ghoſt (who is called the <hi>Promiſe of the Father,</hi> Acts 1. 4.) eſpecially by Bap<g ref="char:EOLhyphen"/>tiſme? At which he and his company mocked, ſaying <hi>Naaman</hi>
+                  <g ref="char:EOLhyphen"/>like, Can a little ſprinkling of water doe it? Albeit it be the expreſſion of the Holy-Ghoſt himſelfe by S. <hi>Paul,</hi> Tit. 3. 5. calling Baptiſme the <hi>waſhing of new birth</hi> and <hi>renewing of the Holy-Ghoſt.</hi> Which gave occaſion to the third proofe fol<g ref="char:EOLhyphen"/>lowing: to wit;</p>
+            </div>
+            <div n="3" type="proof">
+               <head>
+                  <gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ird proofe.</head>
+               <p>
+                  <pb n="8" facs="tcp:151256:6"/>
+                  <note place="margin"> 
+                     <gap reason="illegible" resp="#UOM" extent="2+ letters">
+                        <desc>••…</desc>
+                     </gap>. 5. 26.</note> That Infants of beleevers (being a part of the Church, Chriſts Spouſe) are ſanctified by the waſhing of water, in the Word; the Argument was thus: The Church is ſanctified by the waſhing of water, in the Word; But Infants are a part of the Church, Therefore muſt be ſanctified by the waſhing of water, in the Word. Mr. <hi>Browne</hi> anſwered firſt to the Con<g ref="char:EOLhyphen"/>cluſion,<note place="margin">
+                     <gap reason="illegible" resp="#UOM" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>ainſt the <gap reason="illegible" resp="#UOM" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap> of Lo<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#UOM" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>.</note> denying their ſanctifying to be by Baptiſme, but by the bloud of Chriſt: To which the Dr. replyed, That <hi>prima cauſa non tollit ſecundam,</hi> nor the principall, tooke away the ef<g ref="char:EOLhyphen"/>fect of the inſtrument; Chriſts death, though it have vertue enough, yet it muſt be applyed by ſome meane; and Baptiſme to be one of theſe meanes, appeareth not onely by this place, but alſo by <hi>Rom.</hi> 6. 3, 4. <hi>Col.</hi> 3. 12. <hi>Whoſoever are baptized unto Chriſt, are baptized into his death;</hi> we are buried with him by Baptiſme into his death. After, he begun to cavill about the Propoſition called <hi>major,</hi> That the ſanctifying of the Church here, is expreſſed not onely by Waſhing, but by the Word. To which the Argumentator did grant, That to the Church <hi>in adultis,</hi> it was; but the Queſtion was, of that part of the Church which as yet were not capable of the Word: where<g ref="char:EOLhyphen"/>with elſe then with Baptiſme are they ſanctiſied? either ſo, or not at all (to ſpeake in the way of Gods ordinarie dealing, not of his abſolute power:) Beſide that, the Word there may be underſtood of the Sacramentall Word, which comming to the element of Water, maketh it a Sacrament, and giveth the vertue and bleſſing: For <hi>unde eſt</hi> (ſaith <hi>Auſtin</hi>) that <hi>aqua cor<g ref="char:EOLhyphen"/>pus tangens animam abluat? eſt a verbo.</hi> Hence he fell to the denying of the <hi>minor,</hi> That Infants were not a part of the Church, uſing the diſtinction of viſible and inviſible, that they were not of the viſible Church; which is as much, as not to be of the Church Militant at all: for, beſide that the Church and the Profeſſion and Sacraments thereof are viſible, and ſo compared to a <hi>Citie on a Mountaine;</hi> none are of the inviſible<note place="margin">
+                     <gap reason="illegible" resp="#UOM" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>tth. 5. 14.</note> Church but ſuch as are of the viſible, it being but a part of the whole, qualified in certain reſpects; ſo as ſhe is not diſcerna<g ref="char:EOLhyphen"/>ble to man, but to God, who alone knoweth the hearts of the children of men: neither can there be any Church but that, which is called either by Word or Sacraments, as the word <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, the Companie of the Called, doth prove: beſide, the children of the Iſraelites were of the viſible Church.</p>
+            </div>
+            <div n="4" type="proof">
+               <head>Fourth pro<gap reason="illegible" resp="#UOM" extent="3+ letters">
+                     <desc>•••…</desc>
+                  </gap>
+               </head>
+               <p>
+                  <pb n="9" facs="tcp:151256:6"/>
+                  <note place="margin">1. Pet. 3. 21</note> Hence the Dr. argumented, from the ſimilitude of Baptiſme and the Arke of <hi>Noah,</hi> which for the exactneſſe of it is called <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, (as <hi>Beza</hi> rendreth it) <hi>correſpondens exemplar;</hi> others, <hi>expreſſa forma,</hi> ſuch as in Wax, or Coyne: whence he argued thus by a double Argument: firſt, The Arke of <hi>Noah</hi> is like Baptiſme, <hi>&amp; caetera;</hi> But without the Arke, by Gods appoint<g ref="char:EOLhyphen"/>ment, none were ſaved: Therefore, without Baptiſme none ſaved ordinarily, and ſo the Infants ſalvation by you hazard<g ref="char:EOLhyphen"/>ed: ſecondly, Baptiſme ſaveth as the Arke; But the Arke ſaved <hi>Noah</hi> and his houſehold, <hi>Heb.</hi> 11. 7. Therefore Baptiſme (by<note place="margin">Gen. 7. 1.</note> the Law of example) ſaveth us and our houſe-hold. To the firſt he anſwered, with an upbraiding of Poperie; which the Argumenter ſaid he had no reaſon to challenge, who comply<g ref="char:EOLhyphen"/>ed ſo much with them in other things: but the Queſtion was not, What the Papiſts, but what the Scriptures ſaid, whom he made his Judge. To the ſecond he anſwered, That no young ones were in the houſehold of <hi>Noah:</hi> againſt which it was in<g ref="char:EOLhyphen"/>ſiſted by the Diſputer, That if they had been, they had not been excluded, the reaſon for their ſafetie in the Arke being the ſame in young ones and elder Children, becauſe they did be<g ref="char:EOLhyphen"/>long to <hi>Noah,</hi> who had found favour with God. Neither was<note place="margin">Gen. 6. 8.</note> it the perſonall Faith of <hi>Cham,</hi> that made him be received into the Arke: laſt of all, he fell to croſſe the firſt words of S. <hi>Pe<g ref="char:EOLhyphen"/>ter,</hi> by his following words; [<hi>Not the laying away of the fil<g ref="char:EOLhyphen"/>theneſſe of the fleſh, but the asking of a good Conſcience towards God, through the reſurrection of Ieſus Christ.</hi>] Whereupon the Dr. began to cleare theſe words; ſhewing, that nothing was intended in them derogatorie to Chriſtian Baptiſm (for then he ſhould give with the one hand, and take from it with the other;) which if it were, why did he mention Baptiſme, and not a good Conſcience alone? But what he ſpeaketh againſt the putting away of the filth of the body, is againſt their waſhings and purification (for to the Jewes diſperſed he wri<g ref="char:EOLhyphen"/>teth;) which alſo the Apoſtle to the Hebrewes, almoſt in the<note place="margin">Heb. 9. 10, 13.</note> ſame expreſſions, doth, calling them Ordinances, or juſtifica<g ref="char:EOLhyphen"/>tions of the fleſh, and purifyings, as touching the cleanneſſe of<note place="margin">The words of S. <hi>Peter</hi> con<g ref="char:EOLhyphen"/>taine <hi>non oppo<g ref="char:EOLhyphen"/>ſitionem</hi> to Baptiſme, but Appoſitionem</note> the fleſh: like to which, Baptiſme doth not ſave us, as not be<g ref="char:EOLhyphen"/>ing a putting off the ſilth of the fleſh, but the asking of the Conſcience; or, that which maketh the Conſcience ask God, and cry, <hi>Abba Father:</hi> for it is a <hi>Metonymie, effectus pro cauſa,</hi>
+                  <pb n="10" facs="tcp:151256:7"/>
+its the asking of the Conſcience towards God, that is the meane or cauſe inſtrumentall of our approach to God; it be<g ref="char:EOLhyphen"/>ing the Laver, or waſhing of new birth, and ſo making us the Children of God.</p>
+               <p>Here the Anſwerer ſtartled; What? (ſaith he) Are we made Gods Children by Baptiſme? Whereupon ſome preſent, not evill affected, would have mitigated or denyed the aſſertion: but the Arguer not moved, askt Mr. <hi>Browne,</hi> Whether that were ſo ſtrange an expreſſion to him, who had ſo often uttered it both Child and Miniſter? Had he forgotten the words of the Engliſh Catechiſme (Anſwer to the very ſecond Queſti<g ref="char:EOLhyphen"/>on?) To which he replyed, That he had indeed ſometime taught ſo, but he was otherwayes illightned now, ſo that he accounted it Blaſphemie. Then (ſaid the Arguer) the Apoſtle blaſphemeth, calling it the <hi>waſhing of new birth,</hi> Tit. 3. 5. and our Saviour himſelfe ſaying, that a man is <hi>borne againe</hi> by the <hi>Water and Spirit.</hi> To theſe words of Scripture he replyed no<g ref="char:EOLhyphen"/>thing, but talkt ſtill of regeneration, and making the ſonnes of God by Faith; which (indeed an effect rather of regene<g ref="char:EOLhyphen"/>ration and holy Spirit then a cauſe) he endeavoured to con<g ref="char:EOLhyphen"/>firme by theſe words, <hi>Gal.</hi> 3. 2. <hi>Received ye the Spirit by the Law, or by the hearing of Faith;</hi> (&amp; <hi>Ioh.</hi> 1. 12. where he ſpeaketh of the firſt receivers of Chriſt being in the world, as appeareth <hi>verſe</hi> 10. &amp; 11. before) where, as <hi>Gal.</hi> 3. 2. <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> the hearing of Faith is the hearing of the Goſpel, which is the Doctrine of Faith (for it is oppoſed there to the Law of <hi>Moſes;</hi>) ſo the Spirit there ſpoken of, is the extraordinary gifts of the Spirit, to the doing of Miracles, as it is after, <hi>verſe</hi> 5. not the ordinary gift of ſanctification, for then all the Churches of Galatia had been inwardly ſanctified: beſide that, receiving of the Spirit by Faith, doth not exclude the Sacraments, every one working in their owne way and order; for, <hi>particulares affirmantes nec contradicunt, nec contrariae ſunt.</hi>
+               </p>
+            </div>
+            <div n="5" type="proof">
+               <head>
+                  <gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>fth proofe, <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rom exam<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>es.</head>
+               <p>
+                  <note place="margin"> 
+                     <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>cts 16. 14, 15.</note> Here the Anſwerer did call for an example of Infant-Bap<g ref="char:EOLhyphen"/>tiſme in all Scripture, and did reade to all the Auditors an ex<g ref="char:EOLhyphen"/>ample of beleevers baptized. Wherefore the Arguer brought firſt the example of <hi>Lydia's</hi> houſehold baptized, where menti<g ref="char:EOLhyphen"/>on is onely of her <hi>hearing and beleeving:</hi> next, an inſinuation of <hi>Iohns,</hi> That little Children had their ſinnes forgiven in his<note place="margin">Joh. 2. 12.</note> Name; where there is an expreſſion of the forme of Baptiſm
+<pb n="11" facs="tcp:151256:7"/>
+(at leaſt a part of it) as 1 <hi>Cor.</hi> 6. 11. <hi>But now ye are waſhed, ſan<g ref="char:EOLhyphen"/>ctified and juſtified in the Name of the Lord Ieſus.</hi>
+               </p>
+               <p>To the firſt he begun to cavil, that <hi>Lydia</hi> had not a Husband, which was more then he could affirme; howſoever, ſhe had a Family, ſaid the Arguer. To the ſecond he ſaid, firſt, that theſe Children were of ripe yeares, as having <hi>Iohns</hi> Epiſtle directed to them; next, that <hi>In the Name of the Father,</hi> was in the power of the Father, which he ſaid it ſignified principally and properly (apparantly miſtaking himſelfe, for frequently ſay<g ref="char:EOLhyphen"/>ing properly and principally, for he cannot be ſo ignorant to think either <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> and <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> to be <hi>Synonyma,</hi> 
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> 
+                  <hi>ſignificare magis robur quam nomen ex vi vocis,</hi> for that is proper;) thirdly, that the words, 1 <hi>Cor.</hi> 6. 11. were ſaid to them of yeares, who <hi>ſometime were theeves, &amp;c.</hi> fourthly, that the diſtinction there was not of age, but of gifts; and ſome were called <hi>Little Chil<g ref="char:EOLhyphen"/>dren,</hi> for their gifts of mind accordingly.</p>
+               <p>Againſt which the Arguer did inſiſt; and firſt, that it did not prove that they were of ripe yeares, becauſe S. <hi>Iohn</hi> wrote to them; for Epiſtles may be deſigned for them that are not yet able to reade them: as whatſoever was written before, in for<g ref="char:EOLhyphen"/>mer ages, was <hi>written for our inſtruction,</hi> Rom. 15. 4. Next, ſup<g ref="char:EOLhyphen"/>poſe they had been able to reade then when S. <hi>Iohn</hi> wrote, yet he putteth them in mind of forgiveneſſe of ſinnes before ob<g ref="char:EOLhyphen"/>tained, <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> 
+                  <hi>Atticè pro</hi> 
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> which is <hi>praeteritum perfectum:</hi> but the name <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> 
+                  <hi>v.</hi> 14. being a Diminutive, with the oppo<g ref="char:EOLhyphen"/>ſition not only to Fathers, but alſo to young men, (the like of which, is not when there is a Spirituall Childhood onely in<g ref="char:EOLhyphen"/>ſinuated, for then the oppoſition is onely to perfect men) doe ſufficiently ſhew their age. Neither is the Queſtion, to whom the Apoſtle ſpeaketh in that place to the Corinthians; but whether there, Baptiſme and the form of it be not inſinuated? So that [<hi>In the Name of the Father, or Sonne,</hi>] as there in the<note place="margin">1 Joh. 2. 12.</note> Name of the Lord Jeſus, are paralell and like phraſes: neither doth the uſe of the word [<hi>Name of God</hi>] ſometime transferred to ſignifie his Power (whether in Greek or Hebrew) make any thing againſt the forme of Baptiſme inſinuated in the words of S. <hi>Iohn;</hi> for when we are baptized, <hi>In the Name of the Fa<g ref="char:EOLhyphen"/>ther, and of the Sonne and Holy-Ghoſt,</hi> not onely is it in Name and Authoritie from him, but alſo in the Power of him, ac<g ref="char:EOLhyphen"/>companying the calling of his Name upon us.</p>
+               <p>
+                  <pb n="12" facs="tcp:151256:8"/>Neither if any ſhould object, (which he did not remarke)<note place="margin">
+                     <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> Joh. 2. 14.</note> That they are ſaid <hi>to have knowne the Father,</hi> doth that prove, that either they had that knowledge before Baptiſme, (al<g ref="char:EOLhyphen"/>though when he wrote, it may be they were beginning to know him) or that even then their knowledge was ſuch as the Anabaptiſt requireth, for Children begin betimes to know their Parents, (according to that of the Poet, <hi>Incipe parve puer riſu cognoſcere matrem</hi>) and to this ſmall meaſure of know<g ref="char:EOLhyphen"/>ledge, accompanying Infancie it ſelfe, the Apoſtle ſeemeth to allude, writing to theſe <hi>little ones,</hi> as he alludeth to that which is incident to youth-head and old-age, writing to the other 2 diſtinctions of age, <hi>wiſdome in old men, &amp; ſtrength in young men.</hi> Beſide that, the receiving of Baptiſm is a ſort of acknowledg<g ref="char:EOLhyphen"/>ment of the Father, not mentall but real; whence <hi>Sacramentum fidei, &amp; profeſſionis Chriſtianae dicitur,</hi> although after following.</p>
+            </div>
+            <div n="6" type="proof">
+               <head>Sixth proofe, From the types and fi<g ref="char:EOLhyphen"/>gures of Bap<g ref="char:EOLhyphen"/>tiſme.</head>
+               <p>This proofe the Adverſarie did ſhift, ſaying, That it was nothing to the purpoſe what was among the Jewes, and that they had no reference to our Sacraments; That a type could not be a type of another type: where the Diſputer askt, If Baptiſme was to be called a type? the other anſwering, That it repreſented Chriſts death and buriall. The Doctor inſiſted, That albeit in a large extent of the word it might be called a type, yet not according to Eccleſiaſticall uſe of the word, in which it is joyned to figures &amp; ſhadowes, which are aboliſhed; for Baptiſm is not a ſhadow, but a putting off of <hi>the body of ſin,</hi>
+                  <note place="margin">Heb. 10. 1.</note> Col. 2. 11, 12. yea, S. <hi>Peter</hi> ſaith, the Ark was a type of baptiſm.</p>
+               <p>
+                  <note place="margin">1. Old Circum<g ref="char:EOLhyphen"/>ciſion, anſwe<g ref="char:EOLhyphen"/>ring to the Circumciſion of Chriſt, which is Bap<g ref="char:EOLhyphen"/>tiſme, Col. 2. 11, 12.</note> Alwayes, albeit he ſhifted them, here I ſet them downe, and firſt Gircumciſion, to which not onely ſucceeded, but anſwer<g ref="char:EOLhyphen"/>eth our Baptiſme: Now it was beſtowed upon Children, as ſoone as poſſible for Nature to endure it; and God had dealt more hardly with our Children then with the Jewes, if he had not provided for us a meane, and conveyance of Grace to us, as well as to them his Covenant. Here they ſaid, they re<g ref="char:EOLhyphen"/>commended their Children by prayer to God; but this anſwe<g ref="char:EOLhyphen"/>reth not to a Sacrament, which the Jewes had beſide prayer.</p>
+               <p>
+                  <note place="margin">2. Baptiſme in the Sea and Cloud, 1 Cor. 10.</note> The ſecond prefiguration of Chriſtian Baptiſme, was the baptiſme of the Iſraelites unto <hi>Moſes</hi> in the Cloud and Sea; wherein as the Children were as well as their Parents, yea, <hi>pars magna</hi> (for the Fathers were but a many of them, not all, nor moſt part) ſo in the baptiſme unto Chriſt ſhould our<note place="margin">Verſ. 5.</note> Children be.</p>
+            </div>
+            <div n="7" type="proof">
+               <head>Seventh proof<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> The Prophe<g ref="char:EOLhyphen"/>ſies.</head>
+               <p>
+                  <pb n="13" facs="tcp:151256:8"/>The Propheſies may be added here to <hi>Iſaiah</hi> 49. 22. <hi>Behold, I lift up my hand to the Gentiles, and my Enſigne to the people, and they ſhall bring their ſonnes in their boſomes, and their daughters upon their ſhoulders.</hi>
+               </p>
+            </div>
+            <div n="8" type="proof">
+               <head>
+                  <hi>Eighth proof,</hi> From the ne<g ref="char:EOLhyphen"/>ceſſitie there<g ref="char:EOLhyphen"/>of to all.</head>
+               <p>The laſt proofe brought, was the words of our Saviour;<note place="margin"> Ioh. 3. 5.</note> 
+                  <hi>Except a man be borne againe of Water and Spirit, he cannot enter into the Kingdome of God:</hi> Unto which the Adverſarie made this poore anſwer, That it was ſpoken of a Man, looking to the Engliſh Tranſlation, not to the Greeke. Where the Diſpu<g ref="char:EOLhyphen"/>ter marvelling of his impudencie, askt him what <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> ſig<g ref="char:EOLhyphen"/>nified, and what <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> Whether, or not, the name which <hi>John</hi> hath in the words of our Saviour, be not <hi>nomen ſpeciei,</hi> a com<g ref="char:EOLhyphen"/>mon name for all mankind, without difference of ſex, or age? which albeit he could not denie, yet he ſtill ſaid, That in that place it ſignified a Man, and not a Child; which, as it was <hi>Pe<g ref="char:EOLhyphen"/>titio principii,</hi> 
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> the begging of the Queſtion, (as the Logicians call it) ſo it might be convinced out of the very next words of our Saviour, <hi>Whatſoever is borne of the fleſh is</hi>
+                  <note place="margin">Ioh. 3. 6.</note> 
+                  <hi>fleſh, and whatſoever is borne of the Spirit is Spirit.</hi> So that <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> whatſoever begotten of man, is here declared to ſtand in need of new birth; yea, the ſame name <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> rendred Man, is uſed by the Evangeliſt, ſpeaking of Circumciſion, (<hi>Accipit</hi>
+                  <note place="margin">Ioh. 7. 23.</note> 
+                  <hi>homo circumciſionem Sabbatho</hi>) which was meant of Infants.</p>
+            </div>
+            <div type="conclusion">
+               <p>The Doctor ſeeing no anſwering upon their part, but meer ſhifting, or ſhameleſſe denyals and oppoſitions of the Truth, roſe, with this ſaying, That what he had brought, was ſuffici<g ref="char:EOLhyphen"/>ent for modeſt ſpirits, and ſubmiſſive to the Truth; to obſti<g ref="char:EOLhyphen"/>nate people nothing was ſufficient.</p>
+               <p>There were diverſe paſſages betwixt the companie and him; as that Infants were bleſſed by Chriſt, by laying on of his hands, and prayer: to which the Anabaptiſt anſwered, That they were not baptized; but no marvell of this, for neither was baptiſme craved by the bringers of them, nor they that brought them baptized before, for they were not Diſciples, as appeareth by the Text, <hi>the Diſciples forbade them:</hi> more<g ref="char:EOLhyphen"/>over, the Faith of the bringers was not ſuch, as to obtaine baptiſme, either to themſelves or their Children: for it doth not appeare, that they brought them to Chriſt out of any other opinion, then that he was a Prophet, or holy man, whoſe prayers might be ſteadable to them.</p>
+               <p>
+                  <pb n="14" facs="tcp:151256:9"/>Other either words or paſſages, as not being materiall, I paſſe; onely I adde an Epigram of the Doctors, in commi<g ref="char:EOLhyphen"/>ſeration of Infants defrauded of baptiſme.</p>
+               <lg>
+                  <l>VIderat innumeras Infantum flere catervas,</l>
+                  <l>Séque ope deſtitui, ſubſidiiſque quaeri;</l>
+                  <l>Ecquis (ait Chriſtus) noſtros audaculus amnes</l>
+                  <l>Clauſit? munifico me prohibet que frui?</l>
+                  <l>Vellite, paſtores, vallum convellite dextris,</l>
+                  <l>Oppoſitoſque obices, &amp; reſerate lacus.</l>
+                  <l>At que ſalutari pueros respergite Lymphâ,</l>
+                  <l>Et Patris, &amp; nomen fronte ferunto meum;</l>
+                  <l>Nos tutelares ipſa incunabula jactent,</l>
+                  <l>Omnis &amp; aufugiens vis inimica fremat.</l>
+               </lg>
+               <lg>
+                  <head>The ſame in <hi>Engliſh.</hi>
+                  </head>
+                  <l>GReat companies of Infants weeping,</l>
+                  <l>And bemoaning much their woe,</l>
+                  <l>That no man reacht his hand helping,</l>
+                  <l>The depth of evill to bring them fro;</l>
+                  <l>Our <hi>Saviour</hi> ſaw it, and in wrath</l>
+                  <l>He ſaid, Who was ſo bold to ſtop</l>
+                  <l>The ſtreames and fountaines of our Grace,</l>
+                  <l>That they on Infants ſhould not drop?</l>
+                  <l>Pull Shepherds, pull, the Dam's throw downe,</l>
+                  <l>The Sluſes d'ope, and let them run;</l>
+                  <l>With ſaving Water ſprinkle there</l>
+                  <l>The Children that are brought to me,</l>
+                  <l>And let them on their fore-heads beare</l>
+                  <l>My Fathers Name, and mine; that We</l>
+                  <l>To Infants in their Cradles may</l>
+                  <l>Be Patrons, Tutelars, and God;</l>
+                  <l>And that the Enemie flee away,</l>
+                  <l>And by them make no more abode.</l>
+               </lg>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
